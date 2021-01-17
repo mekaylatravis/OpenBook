@@ -15,10 +15,6 @@
             android:name=".activities.Journal"
             android:label="@string/title_activity_journal"
             android:theme="@style/Theme.Login.NoActionBar" />
-        <activity
-            android:name=".Home"
-            android:label="@string/title_activity_home"
-            android:theme="@style/Theme.Login.NoActionBar" />
         <activity android:name=".activities.Signin" />
         <activity android:name=".activities.MainActivity">
             <intent-filter>
@@ -30,3 +26,5 @@
     </application>
 
 </manifest>
+
+
